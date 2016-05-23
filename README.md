@@ -1,2 +1,1 @@
-# hello-world
-just a short description
+this is my first experience in git hub
